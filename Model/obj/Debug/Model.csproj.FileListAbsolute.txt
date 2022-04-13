@@ -1,0 +1,16 @@
+C:\Users\Crazz\OneDrive\Belgeler\Visual Studio 2015\Projects\KazanMyoFinalProje\Model\bin\Debug\Model.dll
+C:\Users\Crazz\OneDrive\Belgeler\Visual Studio 2015\Projects\KazanMyoFinalProje\Model\bin\Debug\Model.pdb
+C:\Users\Crazz\OneDrive\Belgeler\Visual Studio 2015\Projects\KazanMyoFinalProje\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Crazz\OneDrive\Belgeler\Visual Studio 2015\Projects\KazanMyoFinalProje\Model\obj\Debug\Model.dll
+C:\Users\Crazz\OneDrive\Belgeler\Visual Studio 2015\Projects\KazanMyoFinalProje\Model\obj\Debug\Model.pdb
+C:\Users\Crazz\Desktop\KazanMyoFinalProje\KazanMyoFinalProje\Model\bin\Debug\Model.dll
+C:\Users\Crazz\Desktop\KazanMyoFinalProje\KazanMyoFinalProje\Model\bin\Debug\Model.pdb
+C:\Users\Crazz\Desktop\KazanMyoFinalProje\KazanMyoFinalProje\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Crazz\Desktop\KazanMyoFinalProje\KazanMyoFinalProje\Model\obj\Debug\Model.dll
+C:\Users\Crazz\Desktop\KazanMyoFinalProje\KazanMyoFinalProje\Model\obj\Debug\Model.pdb
+C:\Users\burak\OneDrive\Masaüstü\projeler\transfer\KazanMyoFinalProje\KazanMyoFinalProje\KazanMyoFinalProje\Model\bin\Debug\Model.dll
+C:\Users\burak\OneDrive\Masaüstü\projeler\transfer\KazanMyoFinalProje\KazanMyoFinalProje\KazanMyoFinalProje\Model\bin\Debug\Model.pdb
+C:\Users\burak\OneDrive\Masaüstü\projeler\transfer\KazanMyoFinalProje\KazanMyoFinalProje\KazanMyoFinalProje\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\burak\OneDrive\Masaüstü\projeler\transfer\KazanMyoFinalProje\KazanMyoFinalProje\KazanMyoFinalProje\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\projeler\transfer\KazanMyoFinalProje\KazanMyoFinalProje\KazanMyoFinalProje\Model\obj\Debug\Model.dll
+C:\Users\burak\OneDrive\Masaüstü\projeler\transfer\KazanMyoFinalProje\KazanMyoFinalProje\KazanMyoFinalProje\Model\obj\Debug\Model.pdb

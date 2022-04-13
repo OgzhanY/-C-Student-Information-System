@@ -1,0 +1,11 @@
+C:\Users\Crazz\OneDrive\Belgeler\Visual Studio 2015\Projects\KazanMyoFinalProje\DAL\bin\Debug\DAL.dll
+C:\Users\Crazz\OneDrive\Belgeler\Visual Studio 2015\Projects\KazanMyoFinalProje\DAL\bin\Debug\DAL.pdb
+C:\Users\Crazz\OneDrive\Belgeler\Visual Studio 2015\Projects\KazanMyoFinalProje\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Crazz\OneDrive\Belgeler\Visual Studio 2015\Projects\KazanMyoFinalProje\DAL\obj\Debug\DAL.dll
+C:\Users\Crazz\OneDrive\Belgeler\Visual Studio 2015\Projects\KazanMyoFinalProje\DAL\obj\Debug\DAL.pdb
+C:\Users\burak\OneDrive\Masaüstü\projeler\transfer\KazanMyoFinalProje\KazanMyoFinalProje\KazanMyoFinalProje\DAL\bin\Debug\DAL.dll
+C:\Users\burak\OneDrive\Masaüstü\projeler\transfer\KazanMyoFinalProje\KazanMyoFinalProje\KazanMyoFinalProje\DAL\bin\Debug\DAL.pdb
+C:\Users\burak\OneDrive\Masaüstü\projeler\transfer\KazanMyoFinalProje\KazanMyoFinalProje\KazanMyoFinalProje\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\burak\OneDrive\Masaüstü\projeler\transfer\KazanMyoFinalProje\KazanMyoFinalProje\KazanMyoFinalProje\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\projeler\transfer\KazanMyoFinalProje\KazanMyoFinalProje\KazanMyoFinalProje\DAL\obj\Debug\DAL.dll
+C:\Users\burak\OneDrive\Masaüstü\projeler\transfer\KazanMyoFinalProje\KazanMyoFinalProje\KazanMyoFinalProje\DAL\obj\Debug\DAL.pdb
